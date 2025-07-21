@@ -2,6 +2,7 @@
 
  <img src= "https://files.catbox.moe/4ug1wo.png">
     </p>
+### 📝 𝐍𝐨𝐭𝐚: 𝐄𝐬𝐭𝐞 𝐁𝐨𝐭 𝐞𝐬 𝐥𝐚 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐁𝐞𝐭𝐚 𝐝𝐞 𝐋𝐮𝐧𝐚-𝐁𝐨𝐭-𝐕𝟏
 
 ### **`❕️ Información importante`**
 
