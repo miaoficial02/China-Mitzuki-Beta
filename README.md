@@ -1,4 +1,4 @@
-<h1 align="center">✦sᥙmі sᥲkᥙrᥲsᥲᥕᥲ✦</h1>
+<h1 align="center">🌙🄻𝐮𝐧𝐚-🄱𝐨𝐭 (🄱𝐞𝐭𝐚)🌙</h1>
 
  <img src= "https://files.catbox.moe/4ug1wo.png">
     </p>
