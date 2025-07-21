@@ -11,7 +11,7 @@ ${listAdmin}
 
 ${emoji} Mensaje: ${oi}
 
-『✦』Evita usar este comando con otras intenciones o seras *eliminado* o *baneado* del Bot.`.trim();
+『⭐』Evita usar este comando con otras intenciones o seras *eliminado* o *baneado* del Bot.`.trim();
   conn.sendFile(m.chat, pp, 'error.jpg', text, m, false, {mentions: [...groupAdmins.map((v) => v.id), owner]});
 };
 handler.help = ['admins <texto>'];
