@@ -32,28 +32,28 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = 'sᥙmі-ᑲ᥆𝗍-MD'
-global.namebot = '✿𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴✿'
+global.nameqr = 'luna-MD'
+global.namebot = '𝐋𝐔𝐍𝐀-𝐁𝐎𝐓 (𝐁𝐄𝐓𝐀)'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '✿𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴✿'
-global.botname = '𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴'
-global.wm = '✿𝑆𝑈𝑀𝐼 𝑆𝐴𝐾𝑈𝑅𝐴𝑆𝐴𝑊𝐴✿'
+global.packname = '𝐋𝐔𝐍𝐀-𝐁𝐎𝐓 (𝐁𝐄𝐓𝐀)'
+global.botname = '𝐋𝐔𝐍𝐀-𝐁𝐎𝐓 (𝐁𝐄𝐓𝐀)'
+global.wm = '𝐋𝐔𝐍𝐀-𝐁𝐎𝐓 (𝐁𝐄𝐓𝐀)'
 global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
-global.textbot = 'sᥙmі, mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
+global.textbot = 'ᥣᥙᥒᥲ, mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 global.etiqueta = 'і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.moneda = '¥enes'
-global.welcom1 = '✿ Edita Con El Comando #setwelcome'
-global.welcom2 = '✿ Edita Con El Comando #setbye'
-global.banner = 'https://files.catbox.moe/vornn1.jpg'
+global.welcom1 = '🌙 Edita Con El Comando #setwelcome'
+global.welcom2 = '🌙 Edita Con El Comando #setbye'
+global.banner = 'https://files.catbox.moe/325ir0.png'
 global.avatar = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
