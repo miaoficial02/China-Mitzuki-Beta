@@ -1,7 +1,7 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
 let img = 'https://files.catbox.moe/5s540n.jpg'
 let staff = `✿ *𝐄𝐐𝐔𝐈𝐏𝐎 𝐃𝐄 𝐀𝐘𝐔𝐃𝐀𝐍𝐓𝐄𝐒* ✿
-✰ *Dueño* ${creador}
+✰ *Dueño* 𝐈𝐭𝐬.𝐦𝐥𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥
 ✦ *Bot:* ${botname}
 ⚘ *Versión:* ${vs}
 ❖ *Libreria:* ${libreria} ${baileys}
