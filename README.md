@@ -1,6 +1,6 @@
 <h1 align="center">✦sᥙmі sᥲkᥙrᥲsᥲᥕᥲ✦</h1>
 
- <img src= "https://files.catbox.moe/km1exh.jpg">
+ <img src= "https://files.catbox.moe/4ug1wo.png">
     </p>
 
 ### **`❕️ Información importante`**
