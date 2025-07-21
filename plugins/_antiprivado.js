@@ -7,7 +7,7 @@ export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) 
   const bot = global.db.data.settings[this.user.jid] || {};
 if (m.chat === '120363416409380841@newsletter') return !0
   if (bot.antiPrivate && !isOwner && !isROwner) {
-    await m.reply(`${emoji} Hola @${m.sender.split`@`[0]}, Soy Mia, creadora de Sumi he desactivado los comandos en los chats privados el cual serás bloqueado.`, false, {mentions: [m.sender]});
+    await m.reply(`${emoji} Hola @${m.sender.split`@`[0]}, Soy Mia, creadora de 🄻𝐮𝐧𝐚 he desactivado los comandos en los chats privados el cual serás bloqueado.`, false, {mentions: [m.sender]});
     await this.updateBlockStatus(m.chat, 'block');
   }
   return !1;
