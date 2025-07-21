@@ -2,7 +2,7 @@
 
  <img src= "https://files.catbox.moe/4ug1wo.png">
     </p>
-📝 𝐍𝐨𝐭𝐚:𝐄𝐒𝐓𝐄 𝐁𝐎𝐓 𝐄𝐒 𝐋𝐀 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 (𝐁𝐄𝐓𝐀) 𝐃𝐄 𝐋𝐔𝐍𝐀-𝐁𝐎𝐓
+📝 𝐄𝐒𝐓𝐄 𝐁𝐎𝐓 𝐄𝐒 𝐋𝐀 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 (𝐁𝐄𝐓𝐀) 𝐃𝐄 𝐋𝐔𝐍𝐀-𝐁𝐎𝐓
 
 ### **`❕️ Información importante`**
 
