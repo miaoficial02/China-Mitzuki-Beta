@@ -52,7 +52,7 @@ author = author || 'no encontrado'
         const api = await (await fetch(`https://api.stellarwa.xyz/dow/ytmp3?url=${url}`)).json()
         const resulta = api.data
         const result = resulta.dl   
-        if (!result) throw new Error('⚠ El enlace de audio no se generó correctamente.')
+        if (!result) throw new Error('「⚠️」 El enlace de audio no se generó correctamente.')
         await conn.sendMessage(m.chat, { audio: { url: result }, fileName: `${resulta.title}.mp3`, mimetype: 'audio/mpeg' }, { quoted: m })
       } catch (e) {
         return conn.reply(m.chat, '「⚠️」 No se pudo enviar el audio. Esto puede deberse a que el archivo es demasiado pesado o a un error en la generación de la URL. Por favor, intenta nuevamente más tarde.', m)
@@ -66,10 +66,10 @@ author = author || 'no encontrado'
         return conn.reply(m.chat, '「⚠️」 No se pudo enviar el video. Esto puede deberse a que el archivo es demasiado pesado o a un error en la generación de la URL. Por favor, intenta nuevamente más tarde.', m)
       }
     } else {
-      return conn.reply(m.chat, '✧︎ Comando no reconocido.', m)
+      return conn.reply(m.chat, '「⚠️」 Comando no reconocido.', m)
     }
   } catch (error) {
-    return m.reply(`⚠︎ Ocurrió un error: ${error}`)
+    return m.reply(`「❌」 Ocurrió un error: ${error}`)
   }
 }
 handler.command = handler.help = ['play', 'yta', 'ytmp3', 'play2', 'ytv', 'ytmp4', 'playaudio', 'mp4']
