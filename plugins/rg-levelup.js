@@ -24,7 +24,7 @@ let handler = async (m, { conn }) => {
         txt += `「⭐」 *Nivel anterior* : ${before}\n`;
         txt += `「⭐」 *Nuevos niveles* : ${user.level}\n`;
         txt += `「⭐」 *Fecha* : ${new Date().toLocaleString('id-ID')}\n\n`;
-        txt += `> ➨ Nota: *Cuanto más interactúes con el Bot, mayor será tu nivel.*`;
+        txt += `> 📝 Nota: *Cuanto más interactúes con el Bot, mayor será tu nivel.*`;
         await conn.sendMessage(m.chat, { text: txt }, { quoted: m });
     } else {
         let users = Object.entries(global.db.data.users).map(([key, value]) => {
