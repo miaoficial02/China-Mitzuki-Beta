@@ -41,7 +41,7 @@ href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><
 ### **`⭐ Instalación por termux`**
 
 <details>
- <summary><b> ✎ Click para ver los Comandos </b></summary>
+ <summary><b> 📌 Click para ver los Comandos </b></summary>
 
 ### **🌻 Instalación manual por termux 🌻**
 > Nota: Copie y pegue los comandos en termux uno por uno.
