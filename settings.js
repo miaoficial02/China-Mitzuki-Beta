@@ -17,7 +17,7 @@ global.botNumber = '' //Ejemplo: 573218138672
 
 global.owner = [
 // <-- Número @s.whatsapp.net -->
-  ['5492643229928', '🜲 Propietario 🜲', true],
+  ['5492643229928', '𝕮𝖍𝖎𝖓𝖎𝖙𝖆𝖆𝖆 💋', true],
   ['5492916450307'], 
 ];
 
