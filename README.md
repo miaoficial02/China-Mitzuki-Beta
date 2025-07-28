@@ -81,7 +81,7 @@ npm start
     cd China-Mitzuki && nano settings.js
    ```
         
-<div align="center">
+### <div align="center">
   <h1 align="center">𝐀𝐔𝐓𝐎𝐑 𝐃𝐄𝐋 𝐏𝐑𝐎𝐘𝐄𝐂𝐓𝐎</h1>
 
 <a href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="300" height="300" alt="Alex-X"/></a>
