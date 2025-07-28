@@ -53,8 +53,8 @@ npm start
 
 > Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
 
-
-
+```
+```
 <div align="center">
   <h1 align="center">𝐀𝐔𝐓𝐎𝐑 𝐃𝐄𝐋 𝐏𝐑𝐎𝐘𝐄𝐂𝐓𝐎</h1>
 
