@@ -16,7 +16,42 @@
 > el proyecto está en constante evolucion por lo tanto el bot aún no funcionará hasta que este terminado.**
 
 ----
+### **`📲 Instalación por termux`**
 
+<details>
+ <summary><b> 📌 Click para ver los Comandos </b></summary>
+
+### **👤 Instalación manual por termux 👤**
+> Nota: Copie y pegue los comandos en termux uno por uno.
+```bash
+termux-setup-storage
+```
+
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+
+```bash
+git clone https://github.com/miaoficial02/China-Mitzuki && cd China-Mitzuki
+```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm update
+```
+
+```bash
+npm start
+```
+
+> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
 
 <div align="center">
   <h1 align="center">𝐀𝐔𝐓𝐎𝐑 𝐃𝐄𝐋 𝐏𝐑𝐎𝐘𝐄𝐂𝐓𝐎</h1>
