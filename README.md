@@ -17,6 +17,19 @@
 
 ----
 
+### 📱 Android (Termux)
+
+> 📲 Ideal para ejecutar el bot en dispositivos móviles. Copia y pega los comandos uno por uno
+
+```bash
+pkg update && pkg upgrade
+pkg install git nodejs ffmpeg imagemagick -y
+git clone https://github.com/miaoficial02/China-Mitzuki-Beta
+cd China-Mitzuki-Beta
+npm install
+npm start
+```
+
 <div align="center">
   <h1 align="center">𝐀𝐔𝐓𝐎𝐑 𝐃𝐄𝐋 𝐏𝐑𝐎𝐘𝐄𝐂𝐓𝐎</h1>
 
