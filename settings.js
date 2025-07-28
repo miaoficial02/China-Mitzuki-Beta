@@ -33,26 +33,26 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
 global.nameqr = 'luna-MD'
-global.namebot = '🄻᪶᪴𝐮᪶᪴𝐧᪶᪴𝐚᪶᪴ ᪶🄱᪶᪴𝐨᪶᪴𝐭᪶᪴ ᪶🄱᪶֟፝𝐞᪶᪴𝐭᪶᪴𝐚᪶᪴'
+global.namebot = '𝕮𝖍𝖎𝖓𝖆-𝕸𝖎𝖙𝖟𝖚𝖐𝖎-𝕭𝖊𝖙𝖆'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '🄻᪶᪴𝐮᪶᪴𝐧᪶᪴𝐚᪶᪴ ᪶🄱᪶᪴𝐨᪶᪴𝐭᪶᪴ ᪶🄱᪶֟፝𝐞᪶᪴𝐭᪶᪴𝐚᪶᪴'
-global.botname = '🄻᪶᪴𝐮᪶᪴𝐧᪶᪴𝐚᪶᪴ ᪶🄱᪶᪴𝐨᪶᪴𝐭᪶᪴ ᪶🄱᪶֟፝𝐞᪶᪴𝐭᪶᪴𝐚᪶᪴'
-global.wm = '🄻᪶᪴𝐮᪶᪴𝐧᪶᪴𝐚᪶᪴ ᪶🄱᪶᪴𝐨᪶᪴𝐭᪶᪴ ᪶🄱᪶֟፝𝐞᪶᪴𝐭᪶᪴𝐚᪶᪴'
+global.packname = '𝕮𝖍𝖎𝖓𝖆-𝕸𝖎𝖙𝖟𝖚𝖐𝖎-𝕭 💋'
+global.botname = '𝕮𝖍𝖎𝖓𝖆-𝕸𝖎𝖙𝖟𝖚𝖐𝖎-𝕭 💋'
+global.wm = '𝕮𝖍𝖎𝖓𝖆-𝕸𝖎𝖙𝖟𝖚𝖐𝖎-𝕭 💋'
 global.author = '© mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
-global.textbot = '🄻𝐮𝐧𝐚, mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
+global.textbot = '𝕮𝖍𝖎𝖓𝖆, mᥲძᥱ ᥕі𝗍һ ᑲᥡ і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 global.etiqueta = 'і𝗍s.mіᥲ.᥆𝖿іᥴіᥲᥣ'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.moneda = '¥enes'
-global.welcom1 = '🌙 Edita Con El Comando #setwelcome'
-global.welcom2 = '🌙 Edita Con El Comando #setbye'
+global.welcom1 = '「🌹」 Edita Con El Comando #setwelcome'
+global.welcom2 = '「🌹」 Edita Con El Comando #setbye'
 global.banner = 'https://files.catbox.moe/325ir0.png'
 global.avatar = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg'
 
@@ -62,8 +62,8 @@ global.gp1 = 'https://chat.whatsapp.com/GeMUm4iACPPKRPrKBRKM8c'
 global.comunidad1 = 'https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa'
 global.channel = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
 global.channel2 = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
+global.md = 'https://github.com/miaoficial02/China-Mitzuki-Beta'
+global.correo = 'itss.mia.oficial@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
